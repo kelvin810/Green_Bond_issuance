@@ -8,3 +8,4 @@ st.write(
     "interactively explore Green Bond Issuance by corporates and goverments " \
     "from EU countries betwen 2014 to 2024 "
 )
+
